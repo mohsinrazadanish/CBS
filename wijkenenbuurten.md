@@ -3,6 +3,8 @@
 
 ## WIJKEN EN BUURTEN
 
+| FIELD | SHORT DESCRIPTION | UNITS |
+| ------ | ------ | ------ |
 | BU_CODE | Buurtcode | [code] |
 | BU_NAAM | Buurtnaam | [naam] |
 | WK_CODE | Wijkcode | [code] |
@@ -19,6 +21,8 @@
 
 ## BEVOLKING
 
+| FIELD | SHORT DESCRIPTION | UNITS |
+| ------ | ------ | ------ |
 | AANT_INW | Aantal inwoners | [aantal] |
 | AANT_MAN | Mannen | [aantal] |
 | AANT_VROUW | Vrouwen | [aantal] |
@@ -39,7 +43,9 @@
 
 
 ## Particuliere huishoudens 
- 
+
+| FIELD | SHORT DESCRIPTION | UNITS |
+| ------ | ------ | ------ |
 | AANTAL_HH | Huishoudens totaal | [aantal] |
 | P_EENP_HH | Eenpersoonshuishoudens | [%] |
 | P_HH_Z_K | Huishoudens zonder kinderen | [%] |
@@ -48,7 +54,9 @@
  
  
 ## Allochtonen
- 
+
+| FIELD | SHORT DESCRIPTION | UNITS |
+| ------ | ------ | ------ |
 | P_WEST_AL | Westers totaal | [%] |
 | P_N_W_AL | Niet-westers totaal | [%] |
 | P_MAROKKO | Marokko | [%] |
@@ -60,6 +68,8 @@
  
 ## BEDRIJVEN
 
+| FIELD | SHORT DESCRIPTION | UNITS |
+| ------ | ------ | ------ |
 | A_BEDV | Bedrijfsvestigingen totaal | [aantal] |
 | A_BED_A | A Landbouw, bosbouw en visserij | [aantal] |
 | A_BED_BF | B-F Nijverheid en energie | [aantal] |
@@ -71,7 +81,9 @@
  
  
 ## WONEN
- 
+
+| FIELD | SHORT DESCRIPTION | UNITS |
+| ------ | ------ | ------ |
 | WONINGEN | Woningvoorraad | [aantal] |
 | WOZ | Gemiddelde woningwaarde | [x 1 000 euro] |
 | P_1GEZW | Percentage eengezinswoning | [%] |
@@ -88,7 +100,9 @@
 
 
 ## ENERGIEVERBRUIK PARTICULIERE WONINGEN
- 
+
+| FIELD | SHORT DESCRIPTION | UNITS |
+| ------ | ------ | ------ |
 | G_GAS_TOT | Gemiddeld aardgasverbruik totaal | [m^3] |
 | G_GAS_APP | Appartement | [m^3] |
 | G_GAS_TUS | Tussenwoning | [m^3] |
@@ -110,6 +124,8 @@
 
 ## INKOMEN
 
+| FIELD | SHORT DESCRIPTION | UNITS |
+| ------ | ------ | ------ |
 | AANT_INK | Aantal inkomensontvangers | [aantal] |
 | INK_ONTV | Gemiddeld inkomen per inkomensontvanger | [x 1 000 euro] |
 | INK_INW | Gemiddeld inkomen per inwoner | [x 1 000 euro] |
@@ -124,6 +140,8 @@
 
 ## SOCIALE ZEKERHEID
 
+| FIELD | SHORT DESCRIPTION | UNITS |
+| ------ | ------ | ------ |
 | WWB_UITTOT | Algemene bijstandsuitkeringen totaal | [absoluut] |
 | A_SOZ_OW | Personen met een AOW-uitkering totaal | [aantal] |
 | AO_UIT_TOT | AO-uitkeringen totaal | [absoluut] |
@@ -132,6 +150,8 @@
 
 ## MOTORVOERTUIGEN
 
+| FIELD | SHORT DESCRIPTION | UNITS |
+| ------ | ------ | ------ |
 | AUTO_TOT | Personenauto’s totaal | [absoluut] |
 | AUTO_HH | Personenauto’s per huishouden | [per huishouden] |
 | AUTO_LAND | Personenauto’s naar oppervlakte | [per km^2] |
@@ -145,6 +165,8 @@
 
 ## OPPERVLAKTE
 
+| FIELD | SHORT DESCRIPTION | UNITS |
+| ------ | ------ | ------ |
 | OPP_TOT | Oppervlakte totaal | [ha] |
 | OPP_LAND | Oppervlakte land | [ha] |
 | OPP_WATER | Oppervlakte water | [ha] |
@@ -152,6 +174,8 @@
 
 ## VOORZIENINGEN
 
+| FIELD | SHORT DESCRIPTION | UNITS |
+| ------ | ------ | ------ |
 | AF_ARTSPR | Afstand tot huisartsenpraktijk | [km] |
 | AV1_ARTSPR | Aantal huisartsenpraktijken | [absoluut] |
 | AV3_ARTSPR | Aantal huisartsenpraktijken | [absoluut] |
